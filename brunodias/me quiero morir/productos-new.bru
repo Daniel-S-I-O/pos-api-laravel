@@ -1,0 +1,21 @@
+meta {
+  name: productos-new
+  type: http
+  seq: 3
+}
+
+post {
+  url: http://pos-api-laravel.test/api/productos
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "nombre": "mira vos loco",
+    "descripcion": "esta mierda no da",
+    "precio": 10,
+    "costo": 5,
+    "stock": 2
+  }
+}

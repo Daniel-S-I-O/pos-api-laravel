@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "me quiero morir",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
