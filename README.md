@@ -16,18 +16,18 @@ API RESTful desarrollada con PHP/Laravel para la gestión de inventario, ventas 
 ### Proveedores 🏢
 | Método | Ruta | Descripción | Estado |
 |--------|------|-------------|---------|
-| GET | `/api/proveedores` | Obtener todos los proveedores | ⏳ Pendiente |
-| GET | `/api/proveedores/{id}` | Obtener un proveedor específico | ⏳ Pendiente |
-| POST | `/api/proveedores` | Crear nuevo proveedor | ⏳ Pendiente |
+| GET | `/api/proveedores` | Obtener todos los proveedores | ✅ Completado |
+| GET | `/api/proveedores/{id}` | Obtener un proveedor específico | ✅ Completado |
+| POST | `/api/proveedores` | Crear nuevo proveedor | ✅ Completado |
 | PUT | `/api/proveedores/{id}` | Actualizar proveedor | ⏳ Pendiente |
 | DELETE | `/api/proveedores/{id}` | Eliminar proveedor | ⏳ Pendiente |
 
 ### Clientes 👥
 | Método | Ruta | Descripción | Estado |
 |--------|------|-------------|---------|
-| GET | `/api/clientes` | Obtener todos los clientes | ⏳ Pendiente |
-| GET | `/api/clientes/{id}` | Obtener un cliente específico | ⏳ Pendiente |
-| POST | `/api/clientes` | Crear nuevo cliente | ⏳ Pendiente |
+| GET | `/api/clientes` | Obtener todos los clientes | ✅ Completado |
+| GET | `/api/clientes/{id}` | Obtener un cliente específico | ✅ Completado |
+| POST | `/api/clientes` | Crear nuevo cliente | ✅ Completado |
 | PUT | `/api/clientes/{id}` | Actualizar cliente | ⏳ Pendiente |
 | DELETE | `/api/clientes/{id}` | Eliminar cliente | ⏳ Pendiente |
 
